@@ -1,6 +1,6 @@
 # Personal Expense Analytics (SQL + Python + Power BI)
 
-[![CI](https://github.com/YOUR-USERNAME/expense-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/Yashi-tech-png/expense-analytics/actions)
+[![CI](https://github.com/Yashi-tech-png/expense-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/Yashi-tech-png/expense-analytics/actions)
 
 An end-to-end analytics project: raw, messy bank-style transactions go through a **Python ETL**,
 land in a **star-schema SQL database**, are analysed with **window-function SQL**, and are then served
@@ -33,7 +33,7 @@ flowchart LR
 
 ## Quick start
 ```bash
-git clone https://github.com/YOUR-USERNAME/expense-analytics.git
+git clone https://github.com/Yashi-tech-png/expense-analytics.git
 cd expense-analytics
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
