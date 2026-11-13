@@ -1,0 +1,8 @@
+txn_date,category_name,merchant,payment_method,amount,category_mean,z_score
+2026-07-18,Shopping,Croma Laptop Repair,Credit Card,14999.0,1560.97,5.71
+2026-03-09,Health,Apollo Hospital,Debit Card,6200.0,789.78,3.94
+2026-06-28,Food & Dining,Chai Point,UPI,654.16,237.46,3.77
+2026-01-12,Food & Dining,Campus Canteen,Cash,621.58,237.46,3.47
+2025-12-28,Food & Dining,Campus Canteen,UPI,605.18,237.46,3.32
+2026-04-06,Food & Dining,Campus Canteen,UPI,578.31,237.46,3.08
+2026-06-12,Utilities & Bills,Electricity Share,UPI,697.0,385.97,3.03

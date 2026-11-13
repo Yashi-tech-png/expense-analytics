@@ -1,0 +1,16 @@
+category_name,category_type
+Rent,Expense
+Food & Dining,Expense
+Groceries,Expense
+Transport,Expense
+Entertainment,Expense
+Shopping,Expense
+Utilities & Bills,Expense
+Health,Expense
+Education,Expense
+Travel,Expense
+Subscriptions,Expense
+Uncategorized,Expense
+Allowance,Income
+Internship Stipend,Income
+Freelance,Income

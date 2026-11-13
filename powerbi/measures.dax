@@ -1,0 +1,37 @@
+// Paste each measure into: Modeling > New measure. Put them all in the _Measures table.
+
+Total Income = CALCULATE ( SUM ( Transactions[amount] ), Transactions[category_type] = "Income" )
+
+Total Expense = CALCULATE ( SUM ( Transactions[amount] ), Transactions[category_type] = "Expense" )
+
+Net Savings = [Total Income] - [Total Expense]
+
+Savings Rate % = DIVIDE ( [Net Savings], [Total Income] )
+
+Txn Count = COUNTROWS ( Transactions )
+
+Avg Expense per Txn = DIVIDE ( [Total Expense], CALCULATE ( [Txn Count], Transactions[category_type] = "Expense" ) )
+
+Total Budget = SUM ( Budget[budget_amount] )
+
+Budget Variance = [Total Budget] - [Total Expense]
+
+Budget Utilisation % = DIVIDE ( [Total Expense], [Total Budget] )
+
+Over Budget Rows = CALCULATE ( COUNTROWS ( Budget ), Budget[status] = "Over Budget" )
+
+Expense Previous Month = CALCULATE ( [Total Expense], DATEADD ( Calendar[full_date], -1, MONTH ) )
+
+Expense MoM % = DIVIDE ( [Total Expense] - [Expense Previous Month], [Expense Previous Month] )
+
+Expense YTD = TOTALYTD ( [Total Expense], Calendar[full_date] )
+
+Cumulative Savings =
+CALCULATE ( [Net Savings], FILTER ( ALL ( Calendar ), Calendar[full_date] <= MAX ( Calendar[full_date] ) ) )
+
+Weekend Share % = DIVIDE ( CALCULATE ( [Total Expense], Calendar[is_weekend] = 1 ), [Total Expense] )
+Anomaly Count = COUNTROWS ( Anomalies )
+
+// Calculated column on the Calendar table (Table tools > New column), not a measure.
+// Then set Calendar[day_name] to Sort by column > Day Number.
+Day Number = WEEKDAY ( 'Calendar'[full_date], 2 )

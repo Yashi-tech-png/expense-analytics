@@ -1,0 +1,133 @@
+year_month,month_start,category_name,budget_amount,actual_spend,variance,utilisation_pct,status
+2025-11,2025-11-01,Education,2000.0,1466.0,534.0,73.3,Within Budget
+2025-11,2025-11-01,Entertainment,1500.0,1122.0,378.0,74.8,Within Budget
+2025-11,2025-11-01,Food & Dining,6000.0,5990.01,9.99,99.8,Within Budget
+2025-11,2025-11-01,Groceries,3500.0,3598.22,-98.22,102.8,Over Budget
+2025-11,2025-11-01,Health,1000.0,167.0,833.0,16.7,Within Budget
+2025-11,2025-11-01,Rent,12000.0,12000.0,0.0,100.0,Within Budget
+2025-11,2025-11-01,Shopping,3000.0,3309.7,-309.7,110.3,Over Budget
+2025-11,2025-11-01,Subscriptions,400.0,318.0,82.0,79.5,Within Budget
+2025-11,2025-11-01,Transport,2000.0,945.0,1055.0,47.3,Within Budget
+2025-11,2025-11-01,Travel,2500.0,0.0,2500.0,0.0,Within Budget
+2025-11,2025-11-01,Utilities & Bills,1800.0,1127.0,673.0,62.6,Within Budget
+2025-12,2025-12-01,Education,2000.0,697.0,1303.0,34.9,Within Budget
+2025-12,2025-12-01,Entertainment,1500.0,748.0,752.0,49.9,Within Budget
+2025-12,2025-12-01,Food & Dining,6000.0,7247.38,-1247.38,120.8,Over Budget
+2025-12,2025-12-01,Groceries,3500.0,1931.4,1568.6,55.2,Within Budget
+2025-12,2025-12-01,Health,1000.0,639.0,361.0,63.9,Within Budget
+2025-12,2025-12-01,Rent,12000.0,12000.0,0.0,100.0,Within Budget
+2025-12,2025-12-01,Shopping,3000.0,3567.66,-567.66,118.9,Over Budget
+2025-12,2025-12-01,Subscriptions,400.0,318.0,82.0,79.5,Within Budget
+2025-12,2025-12-01,Transport,2000.0,1749.0,251.0,87.5,Within Budget
+2025-12,2025-12-01,Travel,2500.0,2850.0,-350.0,114.0,Over Budget
+2025-12,2025-12-01,Utilities & Bills,1800.0,1064.0,736.0,59.1,Within Budget
+2026-01,2026-01-01,Education,2000.0,0.0,2000.0,0.0,Within Budget
+2026-01,2026-01-01,Entertainment,1500.0,1290.0,210.0,86.0,Within Budget
+2026-01,2026-01-01,Food & Dining,6000.0,7585.14,-1585.14,126.4,Over Budget
+2026-01,2026-01-01,Groceries,3500.0,1496.42,2003.58,42.8,Within Budget
+2026-01,2026-01-01,Health,1000.0,485.0,515.0,48.5,Within Budget
+2026-01,2026-01-01,Rent,12000.0,12000.0,0.0,100.0,Within Budget
+2026-01,2026-01-01,Shopping,3000.0,2997.13,2.87,99.9,Within Budget
+2026-01,2026-01-01,Subscriptions,400.0,318.0,82.0,79.5,Within Budget
+2026-01,2026-01-01,Transport,2000.0,1828.0,172.0,91.4,Within Budget
+2026-01,2026-01-01,Travel,2500.0,1200.0,1300.0,48.0,Within Budget
+2026-01,2026-01-01,Utilities & Bills,1800.0,1074.0,726.0,59.7,Within Budget
+2026-02,2026-02-01,Education,2000.0,0.0,2000.0,0.0,Within Budget
+2026-02,2026-02-01,Entertainment,1500.0,0.0,1500.0,0.0,Within Budget
+2026-02,2026-02-01,Food & Dining,6000.0,5360.68,639.32,89.3,Within Budget
+2026-02,2026-02-01,Groceries,3500.0,1624.61,1875.39,46.4,Within Budget
+2026-02,2026-02-01,Health,1000.0,552.0,448.0,55.2,Within Budget
+2026-02,2026-02-01,Rent,12000.0,12000.0,0.0,100.0,Within Budget
+2026-02,2026-02-01,Shopping,3000.0,1556.19,1443.81,51.9,Within Budget
+2026-02,2026-02-01,Subscriptions,400.0,318.0,82.0,79.5,Within Budget
+2026-02,2026-02-01,Transport,2000.0,1533.0,467.0,76.7,Within Budget
+2026-02,2026-02-01,Travel,2500.0,0.0,2500.0,0.0,Within Budget
+2026-02,2026-02-01,Utilities & Bills,1800.0,1082.0,718.0,60.1,Within Budget
+2026-03,2026-03-01,Education,2000.0,1203.0,797.0,60.2,Within Budget
+2026-03,2026-03-01,Entertainment,1500.0,330.0,1170.0,22.0,Within Budget
+2026-03,2026-03-01,Food & Dining,6000.0,6757.56,-757.56,112.6,Over Budget
+2026-03,2026-03-01,Groceries,3500.0,2519.05,980.95,72.0,Within Budget
+2026-03,2026-03-01,Health,1000.0,6940.0,-5940.0,694.0,Over Budget
+2026-03,2026-03-01,Rent,12000.0,12000.0,0.0,100.0,Within Budget
+2026-03,2026-03-01,Shopping,3000.0,3001.95,-1.95,100.1,Over Budget
+2026-03,2026-03-01,Subscriptions,400.0,318.0,82.0,79.5,Within Budget
+2026-03,2026-03-01,Transport,2000.0,1271.0,729.0,63.6,Within Budget
+2026-03,2026-03-01,Travel,2500.0,0.0,2500.0,0.0,Within Budget
+2026-03,2026-03-01,Utilities & Bills,1800.0,1238.0,562.0,68.8,Within Budget
+2026-04,2026-04-01,Education,2000.0,1112.0,888.0,55.6,Within Budget
+2026-04,2026-04-01,Entertainment,1500.0,1179.0,321.0,78.6,Within Budget
+2026-04,2026-04-01,Food & Dining,6000.0,6855.55,-855.55,114.3,Over Budget
+2026-04,2026-04-01,Groceries,3500.0,1374.78,2125.22,39.3,Within Budget
+2026-04,2026-04-01,Health,1000.0,693.0,307.0,69.3,Within Budget
+2026-04,2026-04-01,Rent,12000.0,12000.0,0.0,100.0,Within Budget
+2026-04,2026-04-01,Shopping,3000.0,4211.43,-1211.43,140.4,Over Budget
+2026-04,2026-04-01,Subscriptions,400.0,318.0,82.0,79.5,Within Budget
+2026-04,2026-04-01,Transport,2000.0,2613.0,-613.0,130.7,Over Budget
+2026-04,2026-04-01,Travel,2500.0,6400.0,-3900.0,256.0,Over Budget
+2026-04,2026-04-01,Utilities & Bills,1800.0,1173.0,627.0,65.2,Within Budget
+2026-05,2026-05-01,Education,2000.0,869.0,1131.0,43.5,Within Budget
+2026-05,2026-05-01,Entertainment,1500.0,1213.0,287.0,80.9,Within Budget
+2026-05,2026-05-01,Food & Dining,6000.0,6181.75,-181.75,103.0,Over Budget
+2026-05,2026-05-01,Groceries,3500.0,3554.12,-54.12,101.5,Over Budget
+2026-05,2026-05-01,Health,1000.0,1245.0,-245.0,124.5,Over Budget
+2026-05,2026-05-01,Rent,12000.0,12000.0,0.0,100.0,Within Budget
+2026-05,2026-05-01,Shopping,3000.0,1361.82,1638.18,45.4,Within Budget
+2026-05,2026-05-01,Subscriptions,400.0,318.0,82.0,79.5,Within Budget
+2026-05,2026-05-01,Transport,2000.0,1365.0,635.0,68.3,Within Budget
+2026-05,2026-05-01,Travel,2500.0,0.0,2500.0,0.0,Within Budget
+2026-05,2026-05-01,Utilities & Bills,1800.0,1134.0,666.0,63.0,Within Budget
+2026-06,2026-06-01,Education,2000.0,0.0,2000.0,0.0,Within Budget
+2026-06,2026-06-01,Entertainment,1500.0,215.0,1285.0,14.3,Within Budget
+2026-06,2026-06-01,Food & Dining,6000.0,5709.83,290.17,95.2,Within Budget
+2026-06,2026-06-01,Groceries,3500.0,4407.99,-907.99,125.9,Over Budget
+2026-06,2026-06-01,Health,1000.0,411.0,589.0,41.1,Within Budget
+2026-06,2026-06-01,Rent,12000.0,12000.0,0.0,100.0,Within Budget
+2026-06,2026-06-01,Shopping,3000.0,4206.95,-1206.95,140.2,Over Budget
+2026-06,2026-06-01,Subscriptions,400.0,318.0,82.0,79.5,Within Budget
+2026-06,2026-06-01,Transport,2000.0,2445.0,-445.0,122.3,Over Budget
+2026-06,2026-06-01,Travel,2500.0,2100.0,400.0,84.0,Within Budget
+2026-06,2026-06-01,Utilities & Bills,1800.0,1346.0,454.0,74.8,Within Budget
+2026-07,2026-07-01,Education,2000.0,878.0,1122.0,43.9,Within Budget
+2026-07,2026-07-01,Entertainment,1500.0,0.0,1500.0,0.0,Within Budget
+2026-07,2026-07-01,Food & Dining,6000.0,6894.33,-894.33,114.9,Over Budget
+2026-07,2026-07-01,Groceries,3500.0,2982.78,517.22,85.2,Within Budget
+2026-07,2026-07-01,Health,1000.0,0.0,1000.0,0.0,Within Budget
+2026-07,2026-07-01,Rent,12000.0,12000.0,0.0,100.0,Within Budget
+2026-07,2026-07-01,Shopping,3000.0,14999.0,-11999.0,500.0,Over Budget
+2026-07,2026-07-01,Subscriptions,400.0,318.0,82.0,79.5,Within Budget
+2026-07,2026-07-01,Transport,2000.0,2255.0,-255.0,112.8,Over Budget
+2026-07,2026-07-01,Travel,2500.0,0.0,2500.0,0.0,Within Budget
+2026-07,2026-07-01,Utilities & Bills,1800.0,1259.0,541.0,69.9,Within Budget
+2026-08,2026-08-01,Education,2000.0,0.0,2000.0,0.0,Within Budget
+2026-08,2026-08-01,Entertainment,1500.0,794.0,706.0,52.9,Within Budget
+2026-08,2026-08-01,Food & Dining,6000.0,8028.34,-2028.34,133.8,Over Budget
+2026-08,2026-08-01,Groceries,3500.0,3458.69,41.31,98.8,Within Budget
+2026-08,2026-08-01,Health,1000.0,776.0,224.0,77.6,Within Budget
+2026-08,2026-08-01,Rent,12000.0,12000.0,0.0,100.0,Within Budget
+2026-08,2026-08-01,Shopping,3000.0,4310.43,-1310.43,143.7,Over Budget
+2026-08,2026-08-01,Subscriptions,400.0,318.0,82.0,79.5,Within Budget
+2026-08,2026-08-01,Transport,2000.0,2934.0,-934.0,146.7,Over Budget
+2026-08,2026-08-01,Travel,2500.0,0.0,2500.0,0.0,Within Budget
+2026-08,2026-08-01,Utilities & Bills,1800.0,1133.0,667.0,62.9,Within Budget
+2026-09,2026-09-01,Education,2000.0,0.0,2000.0,0.0,Within Budget
+2026-09,2026-09-01,Entertainment,1500.0,0.0,1500.0,0.0,Within Budget
+2026-09,2026-09-01,Food & Dining,6000.0,6568.45,-568.45,109.5,Over Budget
+2026-09,2026-09-01,Groceries,3500.0,2250.69,1249.31,64.3,Within Budget
+2026-09,2026-09-01,Health,1000.0,0.0,1000.0,0.0,Within Budget
+2026-09,2026-09-01,Rent,12000.0,12000.0,0.0,100.0,Within Budget
+2026-09,2026-09-01,Shopping,3000.0,2868.16,131.84,95.6,Within Budget
+2026-09,2026-09-01,Subscriptions,400.0,318.0,82.0,79.5,Within Budget
+2026-09,2026-09-01,Transport,2000.0,1633.0,367.0,81.7,Within Budget
+2026-09,2026-09-01,Travel,2500.0,0.0,2500.0,0.0,Within Budget
+2026-09,2026-09-01,Utilities & Bills,1800.0,1088.0,712.0,60.4,Within Budget
+2026-10,2026-10-01,Education,2000.0,492.0,1508.0,24.6,Within Budget
+2026-10,2026-10-01,Entertainment,1500.0,483.0,1017.0,32.2,Within Budget
+2026-10,2026-10-01,Food & Dining,6000.0,8031.22,-2031.22,133.9,Over Budget
+2026-10,2026-10-01,Groceries,3500.0,3384.75,115.25,96.7,Within Budget
+2026-10,2026-10-01,Health,1000.0,2308.0,-1308.0,230.8,Over Budget
+2026-10,2026-10-01,Rent,12000.0,12000.0,0.0,100.0,Within Budget
+2026-10,2026-10-01,Shopping,3000.0,14487.54,-11487.54,482.9,Over Budget
+2026-10,2026-10-01,Subscriptions,400.0,318.0,82.0,79.5,Within Budget
+2026-10,2026-10-01,Transport,2000.0,1223.0,777.0,61.2,Within Budget
+2026-10,2026-10-01,Travel,2500.0,4900.0,-2400.0,196.0,Over Budget
+2026-10,2026-10-01,Utilities & Bills,1800.0,1177.0,623.0,65.4,Within Budget

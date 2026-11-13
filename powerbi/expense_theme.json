@@ -1,0 +1,10 @@
+{
+  "name": "Expense Analytics",
+  "dataColors": ["#2F6DB5", "#E8833A", "#3A9D6E", "#8A8F98", "#B04A6B", "#5B4FA3", "#C9A227", "#2A9D9D"],
+  "background": "#FFFFFF",
+  "foreground": "#1F2937",
+  "tableAccent": "#2F6DB5",
+  "good": "#3A9D6E",
+  "neutral": "#C9A227",
+  "bad": "#D64545"
+}

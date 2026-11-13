@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+# Power BI temp files
+*.pbix.tmp
+# Keep the generated demo database out of git; it is rebuilt by the pipeline
+data/expenses.db
